@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Knowledge Graph Construction
 
-Run the script that constructs the knowledge graph:
+Run the script that constructs the knowledge graph - (nodes: 12426 & edges: 73231)
 
 ```bash
 python KnowledgeGraph/kg_construct.py
