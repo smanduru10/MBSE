@@ -1,4 +1,4 @@
-# MBSE
+# MBSE - Meta Model Completion
 
 ## Environment Setup
 
