@@ -16,3 +16,11 @@ Install the required Python packages:
 ```bash
 pip install -r requirements.txt
 ```
+
+## Knowledge Graph Construction
+
+Run the script that constructs the knowledge graph:
+
+```bash
+python KnowledgeGraph/kg_construct.py
+```
