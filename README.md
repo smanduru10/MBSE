@@ -1,5 +1,21 @@
 # MBSE - Meta Model Completion
 
+## 📁 Repository Structure
+```
+.
+MBSE/
+│
+├── KnowledgeGraph/
+│   │
+│   ├── KGConstruction/
+│   │   ├── knowledge_graph.pkl   # Serialized knowledge graph object
+│   │   
+│   ├── kg_Construct.py           # End-to-end KG construction from modelset dataset 
+
+└── README.md                     # Project overview, setup, and usage
+
+```
+
 ## Environment Setup
 
 Create a virtual environment to isolate dependencies:
