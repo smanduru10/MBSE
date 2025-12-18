@@ -8,12 +8,12 @@ MBSE/
 ├── KnowledgeGraph/
 │   │
 │   ├── KGConstruction/
-│   │   ├── knowledge_graph.pkl   # Serialized knowledge graph object
+│   │   ├── knowledge_graph.pkl       # Serialized knowledge graph object
 │   │   ├── poc_knowledge_graph.html  # PoC HTML graph (from a small sample of the modelset dataset in HTML Format)
 │   │   
-│   ├── kg_Construct.py           # End-to-end KG construction from modelset dataset 
+│   ├── kg_Construct.py               # End-to-end KG construction from modelset dataset 
 │
-└── README.md                     # Project overview, setup, and usage
+└── README.md                         # Project overview, setup, and usage
 
 ```
 
